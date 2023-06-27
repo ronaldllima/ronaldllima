@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Ronald Lima</h1>
-<h3 align="center">Estudante do curso Análise e Desenvolvimento de Sistemas no Instituto de Educação, Ciência e Tecnologia da Bahia</h3>
+<h3 align="center">Olá! Meu nome é Ronald Lima. Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e tecnologia. Atualmente, estou dedicando meu tempo ao aprofundamento dos meus conhecimentos em Java e Spring.</h3>
 <!-- - 🔭 Eu atualmente sou estagiário **Prefeitura de Santo Antônio de jesus** -->
 
 <h3 align="left">Conecte-se comigo:</h3>

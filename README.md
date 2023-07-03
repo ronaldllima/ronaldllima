@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou Ronald Lima</h1>
-<h3 align="center">Olá! Meu nome é Ronald Lima. Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e tecnologia. Atualmente, estou dedicando meu tempo ao aprofundamento dos meus conhecimentos em Java e Spring.</h3>
+<h1 align="center">Olá 👋 sou Ronald Lima, estudante de Análise e Desenvolvimento de Sistemas no IFBA</h1>
+<h3 align="center">Tenho experiência em linguagem de programação C, estrutura de dados e programação orientada a objetos em Java. Também estudei padrões de projeto em Java e estou aprofundando meus conhecimentos em Java e Spring no momento. Além disso, tenho experiência com MySQL. Estou em constante busca por aprendizado e prática para me tornar um desenvolvedor Java backend ainda mais habilidoso. Adoro resolver problemas e criar soluções eficientes. Seja bem-vindo ao meu perfil do GitHub!</h3>
 <!-- - 🔭 Eu atualmente sou estagiário **Prefeitura de Santo Antônio de jesus** -->
 
 <h3 align="left">Conecte-se comigo:</h3>
